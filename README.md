@@ -1,1 +1,0 @@
-# algoritma-ve-veri-yap-lar-
